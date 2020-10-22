@@ -12,6 +12,7 @@ header {
     border-style: solid;
     border-width: 1px;
     border-color: #411f1f;
+    text-align: center;
 }
 
 a:link, a:visited {
