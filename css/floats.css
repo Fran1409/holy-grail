@@ -10,6 +10,8 @@ body {
 header {
     background-color: #86c4ba;
     border-style: solid;
+    border-width: 1px;
+    border-color: #411f1f;
 }
 
 a:link, a:visited {
@@ -19,6 +21,9 @@ a:link, a:visited {
     text-align: center;
     text-decoration: none;
     display: inline-block;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #411f1f;
   }
 
 a:hover, a:active {
@@ -38,20 +43,12 @@ img {
     padding: 5px;
 }
 
-nav {
-    border-style: solid;
-  }
-
-main {
-    border-style: solid;
-}
-
-aside {
-    border-style: solid;
-}
-
 footer {
+    background-color: #86c4ba;
     border-style: solid;
+    border-width: 1px;
+    border-color: #411f1f;
+    text-align: center;
     clear: both;
 }
 
