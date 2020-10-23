@@ -43,8 +43,18 @@ img {
     width: auto;
 }
 
-.container {
-    width: 33.33%;
+nav {
+    width: 15%;
+    padding: 5px;
+}
+
+main {
+    width: 55%;
+    padding: 5px;
+}
+
+aside {
+    width: 30%;
     padding: 5px;
 }
 
